@@ -1,9 +1,7 @@
-# RTES---Real-Time-Embedded-Systems-Challenge-2024
-
-# RTES Embedded Systems Challenge 2024
+# RTES Real Time Embedded Systems Challenge 2024
 
 A real-time embedded systems project built using **PlatformIO** and the **STM32F429ZI Discovery Board**, developed in **VS Code** using the **Mbed framework**.  
-This repository showcases the design, implementation, and testing of an embedded control application for the GY6483 RTES Challenge 2023.
+This repository showcases the design, implementation, and testing of an embedded control application for the GY6483 RTES Challenge 2024.
 
 ---
 
