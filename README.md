@@ -34,8 +34,8 @@ This repository showcases the design, implementation, and testing of an embedded
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/<your-username>/RTES-Embedded-Systems-Challenge-2023.git
-   cd RTES-Embedded-Systems-Challenge-2024
+   git clone https://github.com/tejasae-afk/RTES---Real-Time-Embedded-Systems-Challenge-2024.git
+   
 ## 🧭 Quick Start Guide (VS Code + PlatformIO)
 
 ### 1️⃣ Open in VS Code
